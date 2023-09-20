@@ -1,1 +1,1 @@
-# snake-react
+# snake-game
